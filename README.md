@@ -1,7 +1,7 @@
 # Actividad-2.1
 Actividad 2.1 IAW
 ## Unidades 2, 3 y 4: Instalación, administración y adaptación de gestores de contenidos:
--Ejercicio 1 (link a resolución del Ejercicio 1: content/ejercicio1.md)
+-Ejercicio 1 (https://github.com/RaulRubin/Actividad-2.1/blob/main/Ejercicio.md)
 
 -Ejercicio 2 (https://raulrubin.github.io/Lagrange/)
 
