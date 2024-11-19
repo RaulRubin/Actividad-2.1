@@ -7,4 +7,4 @@ Actividad 2.1 IAW
 
 * [Ejercicio 3](https://raul-jekyll-klise.netlify.app/)
 
-* [Ejercicio 4](https://jekyll-theme-chirpy-b1j.pages.dev/9)
+* [Ejercicio 4](https://jekyll-theme-chirpy-b1j.pages.dev/)
